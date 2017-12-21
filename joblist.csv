@@ -1,0 +1,501 @@
+job_title, job_skills
+air force officer,apply air force procedures
+air force officer,apply military aviation regulations
+air force officer,delegate activities
+air force officer,devise military tactics
+air force officer,ensure compliance with types of weapons
+air force officer,ensure public safety and security
+air force officer,give instructions to staff
+air force officer,handle surveillance equipment
+air force officer,identify security threats
+air force officer,lead military troops
+armed forces officer,arrange equipment repairs
+armed forces officer,defend human rights
+armed forces officer,delegate activities
+armed forces officer,devise military tactics
+armed forces officer,ensure compliance with types of weapons
+armed forces officer,ensure public safety and security
+armed forces officer,handle surveillance equipment
+armed forces officer,identify security threats
+armed forces officer,lead military troops
+armed forces officer,maintain operational communications
+army captain,advise superiors on military operations
+army captain,analyse logistic needs
+army captain,assist in military logistics
+army captain,defend human rights
+army captain,devise military tactics
+army captain,manage troop deployment
+army captain,monitor military equipment use
+army captain,military code
+army captain,military combat techniques
+army captain,military drill
+army general,analyse potential threats against national security
+army general,defend human rights
+army general,delegate activities
+army general,develop defence policies
+army general,ensure public safety and security
+army general,maintain operational communications
+army general,manage administrative systems
+army general,manage budgets
+army general,manage military logistics
+army general,manage staff
+army major,advise superiors on military operations
+army major,delegate activities
+army major,give battle commands
+army major,maintain operational communications
+army major,manage troop deployment
+army major,monitor military equipment use
+army major,train military troops
+army major,military code
+army major,military combat techniques
+army major,military drill
+artillery officer,devise military tactics
+artillery officer,ensure compliance with types of weapons
+artillery officer,ensure public safety and security
+artillery officer,handle surveillance equipment
+artillery officer,identify security threats
+artillery officer,lead military troops
+artillery officer,operate armoured fighting vehicles
+artillery officer,operate radio equipment
+artillery officer,perform military operations
+artillery officer,use different communication channels
+brigadier,analyse potential threats against national security
+brigadier,defend human rights
+brigadier,delegate activities
+brigadier,devise military tactics
+brigadier,ensure compliance with policies
+brigadier,ensure public safety and security
+brigadier,maintain operational communications
+brigadier,manage administrative systems
+brigadier,manage military logistics
+brigadier,manage staff
+colonel,advise superiors on military operations
+colonel,defend human rights
+colonel,devise military tactics
+colonel,ensure compliance with policies
+colonel,ensure information security
+colonel,maintain operational communications
+colonel,use geographic information systems
+colonel,geographic information systems
+colonel,military code
+colonel,military weaponry
+fleet commander,analyse ship operations
+fleet commander,apply navy operation procedures
+fleet commander,defend human rights
+fleet commander,delegate activities
+fleet commander,devise military tactics
+fleet commander,ensure compliance with policies
+fleet commander,ensure public safety and security
+fleet commander,manage vessel fleet
+fleet commander,supervise crew
+fleet commander,military code
+lieutenant,advise superiors on military operations
+lieutenant,delegate activities
+lieutenant,ensure compliance with policies
+lieutenant,instruct in military duties
+lieutenant,lead military troops
+lieutenant,maintain operational communications
+lieutenant,manage administrative systems
+lieutenant,train military troops
+lieutenant,write situation reports
+lieutenant,military code
+navy officer,apply navy operation procedures
+navy officer,coordinate humanitarian aid missions
+navy officer,coordinate rescue missions
+navy officer,coordinate the ship crew
+navy officer,delegate activities
+navy officer,devise military tactics
+navy officer,ensure compliance with types of weapons
+navy officer,ensure public safety and security
+navy officer,give instructions to staff
+navy officer,handle surveillance equipment
+squadron leader,ensure compliance with types of weapons
+squadron leader,give battle commands
+squadron leader,lead military troops
+squadron leader,maintain operational communications
+squadron leader,manage troop deployment
+squadron leader,operate radio equipment
+squadron leader,perform military operations
+squadron leader,provide humanitarian aid
+squadron leader,train military troops
+squadron leader,military combat techniques
+sergeant,advise superiors on military operations
+sergeant,defend human rights
+sergeant,delegate activities
+sergeant,ensure compliance with types of weapons
+sergeant,identify security threats
+sergeant,lead military troops
+sergeant,manage troop deployment
+sergeant,monitor military equipment use
+sergeant,train military troops
+sergeant,military code
+special forces officer,apply information security policies
+special forces officer,assess danger in risk areas
+special forces officer,develop investigation strategy
+special forces officer,devise military tactics
+special forces officer,ensure compliance with types of weapons
+special forces officer,ensure public safety and security
+special forces officer,handle surveillance equipment
+special forces officer,identify security threats
+special forces officer,identify terrorism threats
+special forces officer,lead military troops
+warfare specialist,assess danger in risk areas
+warfare specialist,devise military tactics
+warfare specialist,ensure information security
+warfare specialist,handle surveillance equipment
+warfare specialist,identify security threats
+warfare specialist,lead military troops
+warfare specialist,manage troop deployment
+warfare specialist,operate radar equipment
+warfare specialist,operate radio equipment
+warfare specialist,use different communication channels
+air force pilot,adapt to changing situations
+air force pilot,apply air force procedures
+air force pilot,apply military aviation regulations
+air force pilot,apply signalling control procedures
+air force pilot,comply with air traffic control operations
+air force pilot,ensure compliance with civil aviation regulations
+air force pilot,ensure ongoing compliance with regulations
+air force pilot,execute flight plans
+air force pilot,implement airside safety procedures
+air force pilot,operate cockpit control panels
+army corporal,ensure compliance with types of weapons
+army corporal,give battle commands
+army corporal,lead military troops
+army corporal,maintain operational communications
+army corporal,manage troop deployment
+army corporal,monitor military equipment use
+army corporal,perform military operations
+army corporal,military code
+army corporal,military combat techniques
+army corporal,military drill
+bomb disposal technician,assess danger in risk areas
+bomb disposal technician,disarm land mine
+bomb disposal technician,handle surveillance equipment
+bomb disposal technician,identify land mines
+bomb disposal technician,maintain operational communications
+bomb disposal technician,manage emergency evacuation plans
+bomb disposal technician,operate metal detection equipment
+bomb disposal technician,perform demarcation
+bomb disposal technician,use personal protection equipment
+bomb disposal technician,demining operations
+infantry soldier,ensure compliance with types of weapons
+infantry soldier,ensure public safety and security
+infantry soldier,follow given instructions
+infantry soldier,handle surveillance equipment
+infantry soldier,identify security threats
+infantry soldier,perform military operations
+infantry soldier,provide humanitarian aid
+infantry soldier,use different communication channels
+infantry soldier,camouflage
+infantry soldier,military combat techniques
+intelligence communications interceptor,analyse transmitted communications
+intelligence communications interceptor,coordinate the allocation of Mode S radars to Interrogator Codes
+intelligence communications interceptor,develop military intelligence records
+intelligence communications interceptor,identify electronic signals
+intelligence communications interceptor,operate radar equipment
+intelligence communications interceptor,operate radio equipment
+intelligence communications interceptor,operate radio navigation instruments
+intelligence communications interceptor,operate two-way radio systems
+intelligence communications interceptor,perform scrambling operations
+intelligence communications interceptor,use different communication channels
+military engineer,adjust engineering designs
+military engineer,advise superiors on military operations
+military engineer,define technology strategy
+military engineer,design engineering components
+military engineer,examine engineering principles
+military engineer,monitor military equipment use
+military engineer,monitor technology trends
+military engineer,oversee quality control
+military engineer,supervise the maintenance of military equipment
+military engineer,engineering principles
+military engineer,adjust engineering designs
+military engineer,advise superiors on military operations
+military engineer,define technology strategy
+military engineer,design engineering components
+military engineer,examine engineering principles
+military engineer,monitor military equipment use
+military engineer,monitor technology trends
+military engineer,oversee quality control
+military engineer,supervise the maintenance of military equipment
+military engineer,engineering principles
+government minister,analyse legislation
+government minister,apply crisis management
+government minister,brainstorm ideas
+government minister,make legislative decisions
+government minister,manage government policy implementation
+government minister,perform political negotiation
+government minister,prepare legislation proposition
+government minister,present legislation proposition
+government minister,constitutional law
+government minister,government policy implementation
+mayor,build community relations
+mayor,liaise with local authorities
+mayor,maintain relations with local representatives
+mayor,maintain relationships with government agencies
+mayor,manage administrative systems
+mayor,manage government policy implementation
+mayor,perform government ceremonies
+mayor,government policy implementation
+mayor,government representation
+mayor,advise on legislative acts
+provincial governor,liaise with local authorities
+provincial governor,manage budgets
+provincial governor,manage government policy implementation
+provincial governor,manage staff
+provincial governor,perform debates
+provincial governor,perform government ceremonies
+provincial governor,budgetary principles
+provincial governor,constitutional law
+provincial governor,government policy implementation
+provincial governor,legislation procedure
+secretary of state,advise legislators
+secretary of state,advise on legislative acts
+secretary of state,analyse legislation
+secretary of state,conduct financial audits
+secretary of state,implement strategic management
+secretary of state,liaise with local authorities
+secretary of state,perform political negotiation
+secretary of state,prepare legislation proposition
+secretary of state,present legislation proposition
+secretary of state,audit techniques
+senator,analyse legislation
+senator,make legislative decisions
+senator,perform debates
+senator,perform political negotiation
+senator,prepare legislation proposition
+senator,present legislation proposition
+senator,constitutional law
+senator,government policy implementation
+senator,government representation
+senator,legislation procedure
+central bank governor,analyse economic trends
+central bank governor,analyse market financial trends
+central bank governor,apply conflict management
+central bank governor,create a financial plan
+central bank governor,determine monetary policy actions
+central bank governor,develop an organisational structure
+central bank governor,forecast economic trends
+central bank governor,manage securities trading
+central bank governor,monitor credit institutes
+central bank governor,monitor national economy
+consul,advise on public finance
+consul,analyse problems for opportunities
+consul,assess risk factors
+consul,build international relations
+consul,consider economic criteria in decision making
+consul,develop international cooperation strategies
+consul,develop professional network
+consul,issue official documents
+consul,maintain relationships with government agencies
+consul,offer assistance to national citizens
+diplomat,embassy counsellor
+diplomat,ambassador
+diplomat,analyse problems for opportunities
+diplomat,apply diplomatic crisis management
+diplomat,apply diplomatic principles
+diplomat,assess risk factors
+diplomat,build international relations
+diplomat,coordinate government activities in foreign institutions
+diplomat,develop international cooperation strategies
+diplomat,establish collaborative relations
+diplomat,advise on foreign affairs policies
+diplomat,advise on legislative acts
+diplomat,apply diplomatic principles
+diplomat,assess risk factors
+diplomat,coordinate government activities in foreign institutions
+diplomat,develop professional network
+diplomat,maintain relations with local representatives
+diplomat,maintain relationships with government agencies
+diplomat,manage government policy implementation
+diplomat,observe new developments in foreign countries
+diplomat,advise on foreign affairs policies
+diplomat,advise on risk management
+diplomat,analyse foreign affairs policies
+diplomat,develop professional network
+diplomat,ensure compliance with policies
+diplomat,maintain relations with local representatives
+diplomat,manage administrative systems
+diplomat,observe new developments in foreign countries
+diplomat,represent national interests
+diplomat,respond to enquiries
+fire commissioner,communicate health and safety measures
+fire commissioner,conduct fire safety inspections
+fire commissioner,conduct public presentations
+fire commissioner,educate public on fire safety
+fire commissioner,ensure equipment availability
+fire commissioner,inspect fire equipment
+fire commissioner,manage budgets
+fire commissioner,manage major incidents
+fire commissioner,perform maintenance on fire alarm systems
+fire commissioner,perform risk analysis
+police commissioner,advise on risk management
+police commissioner,apply health and safety standards
+police commissioner,delegate activities
+police commissioner,develop investigation strategy
+police commissioner,ensure compliance with policies
+police commissioner,ensure information security
+police commissioner,ensure law application
+police commissioner,form operational strategies for law enforcement
+police commissioner,maintain operational communications
+police commissioner,manage budgets
+public administration manager,create solutions to problems
+public administration manager,develop work plans to solve problems
+public administration manager,ensure cross-department cooperation
+public administration manager,estimate duration of work
+public administration manager,liaise with local authorities
+public administration manager,liaise with politicians
+public administration manager,maintain relationships with government agencies
+public administration manager,manage budgets
+public administration manager,manage government policy implementation
+public administration manager,manage staff
+secretary general,apply conflict management
+secretary general,conduct financial audits
+secretary general,delegate activities
+secretary general,manage staff
+secretary general,perform project management
+secretary general,represent the organisation
+secretary general,audit techniques
+secretary general,bookkeeping regulations
+secretary general,budgetary principles
+secretary general,project management principles
+special-interest groups' official,advise on legislative acts
+special-interest groups' official,analyse issues
+special-interest groups' official,analyse problems for opportunities
+special-interest groups' official,collaborate in the drafting of policies
+special-interest groups' official,communicate with media
+special-interest groups' official,deal with pressure from unexpected circumstances
+special-interest groups' official,develop professional network
+special-interest groups' official,ensure compliance with policies
+special-interest groups' official,identify policy breach
+special-interest groups' official,interact with the board of directors
+animal facility manager,apply strategic thinking
+animal facility manager,delegate activities
+animal facility manager,develop visitor engagement strategies
+animal facility manager,implement strategic management
+animal facility manager,manage budgets
+animal facility manager,manage operational budgets
+animal facility manager,manage work
+animal facility manager,manage zoo staff
+animal facility manager,organise zoological exhibitions
+animal facility manager,oversee animal management
+business manager,branch manager
+business manager,abide by business ethical code of conducts
+business manager,analyse business objectives
+business manager,analyse business processes
+business manager,apply business acumen
+business manager,assume responsibility for the management of a business
+business manager,build business relationships
+business manager,conclude business agreements
+business manager,control financial resources
+business manager,create a financial plan
+business manager,abide by business ethical code of conducts
+business manager,align efforts towards business development
+business manager,analyse business objectives
+business manager,analyse business processes
+business manager,analyse financial risk
+business manager,apply business acumen
+business manager,assume responsibility for the management of a business
+business manager,conclude business agreements
+business manager,control financial resources
+business manager,create a financial plan
+chief executive officer,airport chief executive
+chief executive officer,analyse business objectives
+chief executive officer,analyse financial performance of a company
+chief executive officer,assume responsibility for the management of a business
+chief executive officer,conclude business agreements
+chief executive officer,define organisational standards
+chief executive officer,delegate activities
+chief executive officer,develop business plans
+chief executive officer,develop company strategies
+chief executive officer,develop organisational policies
+chief executive officer,compile airport certification manuals
+chief executive officer,consider economic criteria in decision making
+chief executive officer,coordinate airport environmental policies
+chief executive officer,create an airport master plan
+chief executive officer,direct airport subcontractors
+chief executive officer,identify airport safety hazards
+chief executive officer,implement improvement procedures in airport operations
+chief executive officer,interact with airport stakeholders
+chief executive officer,liaise with colleagues
+chief executive officer,liaise with managers
+chief operating officer,abide by business ethical code of conducts
+chief operating officer,analyse business objectives
+chief operating officer,conclude business agreements
+chief operating officer,delegate activities
+chief operating officer,develop professional network
+chief operating officer,ensure lawful business operations
+chief operating officer,establish collaborative relations
+chief operating officer,evaluate performance of organisational collaborators
+chief operating officer,get involved in the day-to-day operation of the company
+chief operating officer,integrate strategic foundation in daily performance
+financial manager,corporate treasurer
+financial manager,bank treasurer
+financial manager,budget manager
+financial manager,accounting manager
+financial manager,advise on financial matters
+financial manager,analyse financial performance of a company
+financial manager,analyse market financial trends
+financial manager,create a financial plan
+financial manager,enforce financial policies
+financial manager,follow company standards
+human resources manager,equality and inclusion manager
+human resources manager,apply company policies
+human resources manager,comply with legal regulations
+human resources manager,coordinate operational activities
+human resources manager,develop employee retention programs
+human resources manager,develop training programmes
+human resources manager,evaluate training
+human resources manager,handle conflicts
+human resources manager,identify necessary human resources
+human resources manager,identify with the company's goals
+director of compliance and information security in gambling,apply conflict management
+director of compliance and information security in gambling,ensure compliance with policies
+director of compliance and information security in gambling,follow ethical code of conduct of gambling
+director of compliance and information security in gambling,handle customer complaints
+director of compliance and information security in gambling,handle game complaints
+director of compliance and information security in gambling,implement ICT risk management
+director of compliance and information security in gambling,lead a team
+director of compliance and information security in gambling,manage gambling operation
+director of compliance and information security in gambling,company policies
+director of compliance and information security in gambling,information security strategy
+policy manager,advise on legislative acts
+policy manager,analyse community needs
+policy manager,delegate activities
+policy manager,develop social security programmes
+policy manager,ensure information transparency
+policy manager,liaise with local authorities
+policy manager,maintain relationships with government agencies
+policy manager,manage government policy implementation
+policy manager,manage staff
+policy manager,promote social security programmes
+policy manager,advise on communication strategies
+policy manager,advise on efficiency improvements
+policy manager,apply strategic thinking
+policy manager,define organisational standards
+policy manager,develop business plans
+policy manager,develop company strategies
+policy manager,develop organisational policies
+policy manager,ensure compliance with policies
+policy manager,follow the statutory obligations
+policy manager,impart business plans to collaborators
+policy manager,assess an area as a tourism destination
+policy manager,coordinate public-private partnerships in tourism
+policy manager,deliver presentations on tourism
+policy manager,develop tourism policies
+policy manager,environmental impact of tourism
+policy manager,tourism market
+policy manager,tourist resources of a destination for further development
+policy manager,advise on foreign affairs policies
+policy manager,analyse foreign affairs policies
+policy manager,build a strategic marketing plan for destination management
+programme manager,assess financial viability
+programme manager,ensure equipment availability
+programme manager,ensure equipment maintenance
+programme manager,establish daily priorities
+programme manager,evaluate project plans
+programme manager,follow company standards
+programme manager,identify legal requirements
+programme manager,liaise with managers
+programme manager,manage budgets
+programme manager,manage logistics
